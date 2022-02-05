@@ -12,18 +12,111 @@ Lectures: 5 sessions / week for 2 weeks, 3 hours / session
 Calendar
 --------
 
-| SES # | TOPICS |
-| --- | --- |
-| 1 | Variables and types |
-| 2 | Functions, basic recursion |
-| 3 | Control flow: Branching and repetition |
-| 4 | Introduction to objects: Strings and lists |
-| 5 | Project 1: Structuring larger programs |
-| 6 | Python modules, debugging programs |
-| 7 | Introduction to data structures: Dictionaries |
-| 8 | Functions as a type, anonymous functions and list comprehensions |
-| 9 | Project 2: Working in a team |
-| 10 | Quiz, wrap-up 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+SES #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+Variables and types
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+Functions, basic recursion
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+Control flow: Branching and repetition
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+Introduction to objects: Strings and lists
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+Project 1: Structuring larger programs
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+Python modules, debugging programs
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+Introduction to data structures: Dictionaries
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+Functions as a type, anonymous functions and list comprehensions
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+Project 2: Working in a team
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+Quiz, wrap-up
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Administrative Details
 ----------------------
